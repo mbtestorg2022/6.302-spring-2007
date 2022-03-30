@@ -20,4 +20,4 @@ Final Exams
 
 2005 Final Exam ([PDF]({{< baseurl >}}/resources/final05))
 
-2007 Final Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final07))
+2007 Final Exam ([PDF]({{< baseurl >}}/resources/final07))
