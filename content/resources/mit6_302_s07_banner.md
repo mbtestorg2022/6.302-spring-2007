@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Four screencaps of the instructor lectuering.
+parent_uid: 36d8014a-ab80-064a-7079-ff3fff516356
 resourcetype: Image
 title: MIT6_302S07_banner.jpg
 uid: ee70f204-3b43-3862-da38-fd53c83c350a

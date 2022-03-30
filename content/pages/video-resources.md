@@ -6,7 +6,7 @@ uid: 36d8014a-ab80-064a-7079-ff3fff516356
 
 ![MIT6_302_S07_banner.jpg]({{< resource_file ee70f204-3b43-3862-da38-fd53c83c350a >}})
 
-Associated with this course are [lecture videos](/courses/res-6-010-electronic-feedback-systems-spring-2013/video_galleries/course-videos) that are featured in the supplemental resource, [_Electronic Feedback Systems_](/courses/res-6-010-electronic-feedback-systems-spring-2013/). These videos, recorded in 1985, still provide an excellent way to learn classical feedback as it was practiced then and is practiced now.
+Associated with this course are [lecture videos](/courses/res-6-010-electronic-feedback-systems-spring-2013/video_galleries/course-videos) that are featured in the supplemental resource, [_Electronic Feedback Systems_](/courses/res-6-010-electronic-feedback-systems-spring-2013). These videos, recorded in 1985, still provide an excellent way to learn classical feedback as it was practiced then and is practiced now.
 
 Much of the basis for classical feedback was developed at Bell Labs in the 1930’s, and the people that are associated with it (Bode, Nyquist, Black and others) were at Bell Labs at that time. Their interest was to use feedback to improve the performance of the repeater amplifiers necessary for long distanced telephone signal transmission. They did not make this material widely available, since they had no interest in helping their competitors.
 
